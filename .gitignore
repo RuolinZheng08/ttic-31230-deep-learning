@@ -1,6 +1,5 @@
 .DS_Store
-hw1/MNIST/
-hw1/MNIST/*
+*/MNIST/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
